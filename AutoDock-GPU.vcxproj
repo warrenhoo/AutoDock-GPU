@@ -80,6 +80,8 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>true</LinkIncremental>
     <OutDir>$(SolutionDir)\bin\</OutDir>
+    <IncludePath>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -127,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <PreprocessorDefinitions>NOMINMAX;NDEBUG;_AMD64_;_CONSOLE;%(PreprocessorDefinitions);USE_OPENCL;USE_PIPELINE;VERSION="v1.6|Release|x64";N128WI;KRNL_SOURCE=./device/calcenergy.cl;KRNL_DIRECTORY=./device;KCMN_DIRECTORY=./common;K1=gpu_calc_initpop;K2=gpu_sum_evals;K3=perform_LS;K4=gpu_gen_and_eval_newpops;K5=gradient_minSD;K6=gradient_minFire;K7=gradient_minAD;GPU_DEVICE</PreprocessorDefinitions>
+      <PreprocessorDefinitions>NOMINMAX;NDEBUG;_AMD64_;_CONSOLE;%(PreprocessorDefinitions);USE_OPENCL;USE_PIPELINE;VERSION="v1.6|Release|x64";N128WI;KRNL_SOURCE=./device/calcenergy.cl;KRNL_DIRECTORY=./device;KCMN_DIRECTORY=./common;K1=gpu_calc_initpop;K2=gpu_sum_evals;K3=perform_LS;K4=gpu_gen_and_eval_newpops;K5=gradient_minSD;K6=gradient_minFire;K7=gradient_minAD;GPU_DEVICE;DEVICE=CUDA</PreprocessorDefinitions>
       <WarningLevel>Level3</WarningLevel>
       <AdditionalIncludeDirectories>windows\include;wrapcl\inc;host\inc;common;device</AdditionalIncludeDirectories>
       <OpenMPSupport>true</OpenMPSupport>

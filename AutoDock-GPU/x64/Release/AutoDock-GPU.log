@@ -1,0 +1,770 @@
+﻿cl : 命令行  warning D9025: 正在重写“/openmp”(用“/openmp:llvm”)
+  calcenergy.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(94,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(96,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(108,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(109,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(127,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(133,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(172,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/calcenergy.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(208,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(209,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(222,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(223,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(224,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(231,85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\calcenergy.cpp(232,81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  getparameters.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(94,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(96,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(108,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(109,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(127,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(133,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(172,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/getparameters.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(123,6): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(188,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(202,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(202,10): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(213,16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(213,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(224,16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(224,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(236,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(271,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(273,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(280,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(289,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(296,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(321,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(322,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(336,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(337,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(346,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(347,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(394,60): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(414,48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(422,51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(185,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(197,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(203,37): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(209,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(214,37): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(219,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(225,33): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(264,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(312,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(360,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(361,10): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(369,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(417,10): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(419,34): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(430,31): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(433,34): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(444,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(445,10): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(451,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(462,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(468,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(477,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(487,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(496,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(506,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(516,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(526,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(537,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(546,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(555,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(556,10): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(559,17): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(562,17): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(572,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(622,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(736,36): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(819,55): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(830,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(837,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(846,59): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(648,22): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(659,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(668,12): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(670,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(681,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(691,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(705,12): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(708,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(712,9): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(782,35): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(787,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(864,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(867,24): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(870,27): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(929,39): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(960,54): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1001,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1007,59): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1030,34): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1038,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1052,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1078,58): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1093,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1098,59): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1108,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1125,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1133,12): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1133,12):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1133,12): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1133,12):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1136,23): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1157,58): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(947,30): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(982,22): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(985,26): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(988,29): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(990,25): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(996,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1081,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1146,36): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1148,33): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1194,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1201,26): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1211,26): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1219,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1307,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1363,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1397,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1398,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1406,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1414,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1521,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1619,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1623,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1627,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1631,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1635,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1685,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1700,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2051,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2052,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2053,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1402,29): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1408,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1410,50): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1416,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1418,30): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1439,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1454,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1461,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1475,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1490,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1503,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1518,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1533,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1548,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1563,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1578,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1595,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1616,17): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1651,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1667,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1682,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1697,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1712,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1727,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1742,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1756,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1792,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1879,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1895,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1909,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1925,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1942,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1958,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1973,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(1996,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2009,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2022,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2046,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2049,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2055,30): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2064,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2077,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2093,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2111,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2125,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2139,29): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2210,69): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2210,69): warning C4267:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2210,69): warning C4267:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2210,69): warning C4267:             _Ty=std::_Vbase
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2210,69): warning C4267:         ]
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2212,83): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2212,83): warning C4267:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2212,83): warning C4267:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2212,83): warning C4267:             _Ty=std::_Vbase
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2212,83): warning C4267:         ]
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2191,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2197,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2204,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2205,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2263,41): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2264,41): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2265,41): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2266,23): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2267,23): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2268,23): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2281,42): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2310,37): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2401,10): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 3 拥有了类型“size_t”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2401,10):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2356,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2360,40): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2363,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2367,42): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2371,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2375,46): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2379,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2383,48): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2387,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2393,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2535,10): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 3 拥有了类型“size_t”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2535,10):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2433,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2457,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2478,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2495,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2519,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2567,72): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2589,120): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2595,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2596,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2601,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\getparameters.cpp(2602,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(94,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(96,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(108,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(109,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(127,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(133,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(172,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(59,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(61,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(62,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(63,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/main.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(189,25): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(237,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(254,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(298,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(307,59): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(380,73): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(395,58): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(464,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(535,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(550,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(158,7): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(162,14): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\main.cpp(171,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  miscellaneous.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/miscellaneous.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/miscellaneous.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\miscellaneous.cpp(44,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\miscellaneous.cpp(48,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\miscellaneous.cpp(50,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\miscellaneous.cpp(279,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  performdocking.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(101,26): warning C4244: “=”: 从“_Ty”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(101,26): warning C4244:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(101,26): warning C4244:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(101,26): warning C4244:             _Ty=float
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(101,26): warning C4244:         ]
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(120,27): warning C4244: “=”: 从“_Ty”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(120,27): warning C4244:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(120,27): warning C4244:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(120,27): warning C4244:             _Ty=float
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(120,27): warning C4244:         ]
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(152,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(171,35): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(180,28): warning C4244: “=”: 从“_Ty”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(180,28): warning C4244:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(180,28): warning C4244:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(180,28): warning C4244:             _Ty=float
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(180,28): warning C4244:         ]
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(183,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(195,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(202,29): warning C4244: “=”: 从“unsigned int”转换到“_Ty”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(202,29): warning C4244:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(202,29): warning C4244:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(202,29): warning C4244:             _Ty=float
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(202,29): warning C4244:         ]
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(59,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(61,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(62,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(63,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(94,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(96,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(108,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(109,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(127,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(133,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(172,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/performdocking.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\performdocking.cpp(869,22): warning C4244: “*=”: 从“float”转换到“unsigned long”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\performdocking.cpp(882,11): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\performdocking.cpp(900,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\performdocking.cpp(903,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\performdocking.cpp(906,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\performdocking.cpp(909,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(5201,24): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(5201,24): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(5201,24): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(5201,24): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(5201,24): warning C4244:         ]
+  (编译源文件“host/src/performdocking.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(5201,24):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\autostop.hpp(174,9):
+          查看对正在编译的函数 模板 实例化“void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int>(const _FwdIt,const _FwdIt,const int &)”的引用
+          with
+          [
+              _Ty=float,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>
+          ]
+  
+  processgrid.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/processgrid.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/processgrid.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(63,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(73,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(80,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(91,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(108,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(114,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(123,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(144,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processgrid.cpp(209,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  processligand.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/processligand.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/processligand.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(125,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(126,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(138,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(157,69): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(166,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(167,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(168,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(172,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(188,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(189,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(101,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(337,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(341,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(447,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(449,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(506,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(507,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(508,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(509,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(510,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(511,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(512,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(513,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(514,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(515,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(516,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(517,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(518,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(519,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(520,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(521,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(522,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(523,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(524,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(525,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(526,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(527,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(628,51): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(638,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(869,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(870,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(871,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(872,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(873,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(874,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(875,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(876,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(877,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(878,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(879,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(880,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(881,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(882,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(883,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(884,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(885,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(886,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(887,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(888,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(889,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(890,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(891,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(892,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(893,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(894,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(895,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(896,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(897,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(898,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1167,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1176,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1188,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1191,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1225,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1236,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1264,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1278,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1332,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1344,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1464,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1472,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1475,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1558,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1563,11): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1567,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1585,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1588,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1694,20): warning C4244: “/=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1696,20): warning C4244: “/=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1711,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1712,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1713,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1849,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1850,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1851,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1852,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1907,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1908,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1909,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1816,6): warning C4101: “atom_typeid”: 未引用的局部变量
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1819,16): warning C4101: “dz”: 未引用的局部变量
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1819,12): warning C4101: “dy”: 未引用的局部变量
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1819,8): warning C4101: “dx”: 未引用的局部变量
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2111,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2126,50): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2127,50): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2152,25): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2177,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2178,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2189,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2190,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2192,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2193,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2269,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2270,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2271,37): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(2272,37): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+  processresult.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(94,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(96,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(108,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(109,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(127,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(133,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(172,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(59,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(61,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(62,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(63,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/processresult.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(167,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(172,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(305,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(311,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(370,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(413,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(451,56): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(453,56): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(456,152): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(487,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(503,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(505,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(506,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(384,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(386,93): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(556,48): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(558,141): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(573,15): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(573,15):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(698,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(739,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(817,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(818,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(870,47): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(870,47): warning C4267:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(870,47): warning C4267:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(870,47): warning C4267:             _Ty=std::_Vbase
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(870,47): warning C4267:         ]
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(898,48): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(898,48): warning C4267:         with
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(898,48): warning C4267:         [
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(898,48): warning C4267:             _Ty=std::_Vbase
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(898,48): warning C4267:         ]
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(925,17): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(925,17):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1162,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1163,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1218,21): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+      C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1218,21):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(819,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(821,79): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(863,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(891,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1164,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1166,73): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1334,27): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1335,106): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processresult.cpp(1335,68): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+  setup.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(175,12): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\miscellaneous.h(214,8): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(94,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(96,66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(108,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(109,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(127,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(133,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\getparameters.h(172,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(59,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(61,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(62,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\inc\profile.hpp(63,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“host/src/setup.cpp”)
+  
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(49,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(117,68): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(135,56): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(153,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(214,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(216,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(319,59): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(385,90): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(385,52): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(169,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(219,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(221,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\setup.cpp(243,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BufferObjects.cpp
+  CommandQueues.cpp
+  Contexts.cpp
+  Devices.cpp
+  ImportBinary.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\wrapcl\src\ImportBinary.cpp(51,9): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\wrapcl\src\ImportBinary.cpp(34,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ImportSource.cpp
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\wrapcl\src\ImportSource.cpp(121,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Kernels.cpp
+  listAttributes.cpp
+  Platforms.cpp
+  Programs.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1934): warning C4700: 使用了未初始化的局部变量“x_frac”
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1934): warning C4700: 使用了未初始化的局部变量“x_high”
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1935): warning C4700: 使用了未初始化的局部变量“y_frac”
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1935): warning C4700: 使用了未初始化的局部变量“y_high”
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1936): warning C4700: 使用了未初始化的局部变量“z_frac”
+C:\Users\Warre\Documents\GitHub\AutoDock-GPU\host\src\processligand.cpp(1936): warning C4700: 使用了未初始化的局部变量“z_high”
+  All 1783 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AutoDock-GPU.vcxproj -> C:\Users\Warre\Documents\GitHub\AutoDock-GPU\bin\AutoDock-GPU.exe
